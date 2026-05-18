@@ -5,6 +5,7 @@
 using json = nlohmann::json;
 
 class Config {
+// Updated - v2.4.3
 public:
     std::string getDatabasePath() {
         return databasePath;
