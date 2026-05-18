@@ -31,3 +31,5 @@ Deletes a single blog post by ID.
 ## Badges
 [![Build Status](https://travis-ci.org/username/BlogPlatform.svg?branch=main)](https://travis-ci.org/username/BlogPlatform)
 [![Code Coverage](https://codecov.io/gh/username/BlogPlatform/branch/main/graph/badge.svg)](https://codecov.io/gh/username/BlogPlatform)
+---
+Last updated: v4.1.8
