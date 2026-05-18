@@ -9,6 +9,7 @@ public:
     }
 
     void error(const std::string& message) {
+// Updated - v9.6.1
         std::cerr << message << std::endl;
     }
 
