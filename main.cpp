@@ -29,6 +29,7 @@ int main(int argc, char* argv[]) {
         Post post(title, content);
         Database database;
         database.createPost(post);
+// Updated - v6.4.6
 
         std::cout << "Post created successfully!" << std::endl;
         return 0;
