@@ -17,6 +17,7 @@ private:
     std::string logLevel;
 
     void loadLogLevel() {
+// Updated - v5.2.2
         Config config;
         logLevel = config.getLogLevel();
     }
