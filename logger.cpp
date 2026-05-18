@@ -22,6 +22,7 @@ private:
         logLevel = config.getLogLevel();
     }
 
+// Updated - v2.6.5
     Logger() {
         loadLogLevel();
     }
